@@ -1,0 +1,67 @@
+#heading{ 
+    font-family: 'Festive', cursive;
+    font-size: 40px;
+    padding-left: 135px;
+    color: crimson;
+    box-shadow: 5px 5px 5px 5px rgb(0, 0, 0);
+    
+    
+
+    
+}
+body{
+    margin: 0;
+    
+}
+    
+section{
+    display:flex
+}
+
+.right{
+    width: 50%;
+    margin-left: 30px;
+    color: darkcyan;
+}
+
+.right img{
+    width: 50%;
+    margin-top: 220px;
+    margin-left: 200px;
+}
+
+.left{
+    width: 50%;
+    color: darkslateblue;
+    margin-right: 80px;
+    
+}
+.left img{
+    width: 50%;
+    margin-top: 130px;
+    margin-left: 80px;
+}
+#heading2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    text-decoration: underline overline black
+    
+}
+.facebook{
+    color: white;
+    margin-left: 580px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(skyblue,blue);
+    padding: 7px;
+    
+
+}
+.insta{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 7px;
+}
+
+
